@@ -1,1 +1,1 @@
-# sp-pnp-tutorial
+# SharePoint Patterns and Practices Tutorial
